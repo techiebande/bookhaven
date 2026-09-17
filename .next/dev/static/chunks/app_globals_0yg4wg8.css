@@ -1,0 +1,16 @@
+/* [project]/app/globals.css [app-client] (css) */
+html, body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=app_globals_0yg4wg8.css.map*/
